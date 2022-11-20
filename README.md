@@ -1,21 +1,21 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Todo List" />
+  <img src="./.github/app.gif" alt="ATM-MIT" />
 
   &#xa0;
 
   <!-- <a href="https://testreactapp.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">ATM - MIT</h1>
+<h1 align="center">ATM-MIT</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/JorgeCoy/atm-mit?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/JorgeCoy/ATM_MIT.GITHUB.IO?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/JorgeCoy/atm-mit?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/JorgeCoy/ATM_MIT.GITHUB.IO?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JorgeCoy/atm-mit?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JorgeCoy/atm_mit.GITHUB.IO?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/JorgeCoy/atm-mit?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/JorgeCoy/atm_mit.GITHUB.IO?color=56BEB8">
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{JorgeCoy}/test-react-app?color=56BEB8" /> -->
 
@@ -78,7 +78,7 @@ $ cd test-react-app
 # Install dependencies
 $ npm install
 #Add formik
-$ npm install formik --save
+$ npm install ATM_MIT --save
 # Run the project
 $ npm start
 # The server will initialize in the <http://localhost:3000>
